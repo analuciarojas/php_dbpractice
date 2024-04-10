@@ -1,0 +1,9 @@
+{
+    "name": "analuciarojas/php_dbpractice",
+    "autoload": {
+        "psr-4": {
+            "Analuciarojas\\PhpDbpractice\\": "src/"
+        }
+    },
+    "require": {}
+}
